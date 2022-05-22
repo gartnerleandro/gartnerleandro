@@ -45,7 +45,7 @@
 
 [![TiempoActual Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=tiempoactual)](https://github.com/gartnerleandro/tiempoactual)
 
-[![Simple signup Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=/simple-signup)](https://github.com/gartnerleandro//simple-signup)
+[![Simple signup Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=simple-signup)](https://github.com/gartnerleandro//simple-signup)
 
 [![Tasklist Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=tasklist)](https://github.com/gartnerleandro/tasklist)
 
