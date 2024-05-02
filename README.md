@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/gartner_leandro?style=social)](https://twitter.com/gartner_leandro)
 [![GitHub Followers](https://img.shields.io/github/followers/gartnerleandro?label=Follow&style=social)](https://github.com/gartnerleandro/?tab=followers)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gartnerleandro&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fork-amber.vercel.app/api?username=gartnerleandro&show_icons=true)
 
 ## 🤖 About me
 
@@ -39,15 +39,15 @@
 
 ## 🔝 Top used languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gartnerleandro&layout=compact&langs_count=6)](https://github.com/gartnerleandro)
+[![Top Languages](https://github-readme-stats-fork-amber.vercel.app/api/top-langs/?username=gartnerleandro&layout=compact&langs_count=6)](https://github.com/gartnerleandro)
 
 ## 🚀 Featured projects
 
-[![TiempoActual Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=tiempoactual)](https://github.com/gartnerleandro/tiempoactual)
+[![TiempoActual Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=tiempoactual)](https://github.com/gartnerleandro/tiempoactual)
 
-[![Simple signup Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=simple-signup)](https://github.com/gartnerleandro//simple-signup)
+[![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=simple-signup)](https://github.com/gartnerleandro//simple-signup)
 
-[![Tasklist Project](https://github-readme-stats.vercel.app/api/pin/?username=gartnerleandro&repo=tasklist)](https://github.com/gartnerleandro/tasklist)
+[![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=tasklist)](https://github.com/gartnerleandro/tasklist)
 
 ## ✨ Wiset project
 
