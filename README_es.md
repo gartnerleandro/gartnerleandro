@@ -9,7 +9,6 @@
 
 <p><em>Ingeniero de Growth en <a href="https://producthackers.com/es/?utm_source=mail&utm_medium=gmail&utm_campaign=firma&utm_term=leandro">Product Hackers</a></em><p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Gartner-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gartnerleandro/)](https://www.linkedin.com/in/gartnerleandro/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gartner_leandro?style=social)](https://twitter.com/gartner_leandro)
 [![GitHub Followers](https://img.shields.io/github/followers/gartnerleandro?label=Follow&style=social)](https://github.com/gartnerleandro/?tab=followers)
 
@@ -47,7 +46,7 @@
 
 [![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=simple-signup)](https://github.com/gartnerleandro//simple-signup)
 
-[![Tasklist Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=tasklist)](https://github.com/gartnerleandro/tasklist)
+[![iWrite Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=iWrite)](https://github.com/gartnerleandro/iWrite)
 
 ## ✨ Proyecto Wiset
 
