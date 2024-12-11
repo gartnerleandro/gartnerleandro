@@ -44,6 +44,8 @@
 
 [![CodeRecap Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=coderecap)](https://github.com/gartnerleandro/coderecap)
 
+[![NaviCode Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=navicode-2024)](https://github.com/gartnerleandro/navicode-2024)
+
 [![TiempoActual Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=tiempoactual)](https://github.com/gartnerleandro/tiempoactual)
 
 [![Simple signup Project](https://github-readme-stats-fork-amber.vercel.app/api/pin/?username=gartnerleandro&repo=simple-signup)](https://github.com/gartnerleandro//simple-signup)
